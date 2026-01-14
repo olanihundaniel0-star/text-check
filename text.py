@@ -22,4 +22,4 @@ if __name__ == "__main__":
         print("You didn't enter any text!")
     else:
         analyze_text(user_input)
-*will be updated soon
+#will be updated soon
